@@ -1,0 +1,8 @@
+{
+    "name": "super-translator",
+    "dependencies": {
+        "express": "^4.16.4",
+        "google-translate-api": "vitalets/google-translate-api"
+    },
+    "license": "MIT"
+}
